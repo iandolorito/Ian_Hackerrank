@@ -4,7 +4,7 @@ function circularArrayRotation(a, k, queries) {
         a.unshift(a.pop());
     }
     for (let index of queries) {
-        result.push(a[index]);
+        newa.push(a[index]);
     }
     return newa;
 }
