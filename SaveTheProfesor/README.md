@@ -8,5 +8,7 @@ wrapping around if needed..
 - HOW TO TEST THE FUNCTION
 
 - WRITE THIS IN THE CONSOLE  
-    console.log(getTotalX([2, 4], [16, 32, 96]));
-or use any arrays you want
+    console.log(saveThePrisoner(5, 2, 1)); // Output: 2  
+console.log(saveThePrisoner(7, 19, 2)); // Output: 6  
+console.log(saveThePrisoner(3, 7, 3));  // Output: 3  
+Or test it with any values of prisoners, sweets, and starting seat.
